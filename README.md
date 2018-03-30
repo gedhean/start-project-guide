@@ -56,6 +56,7 @@ npm init
 ### Use a Style Guide
 
 See [JSCS](http://jscs.info/).
+See [Editor Config](editorconfig.org).
 
 ## Important files
 
