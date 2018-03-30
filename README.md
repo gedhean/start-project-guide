@@ -45,6 +45,15 @@ gitignore -types
 gitignore type
 
 ```
+
+### Add package.json
+
+
+```
+npm init
+
+```
+
 ## Important files
 
 ### Contributing
