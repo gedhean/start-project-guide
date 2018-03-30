@@ -56,6 +56,10 @@ npm init
 
 ## Important files
 
+### REABME.md
+
+See [How to write a README.md file](http://jfhbrook.github.io/2011/11/09/readmes.html).
+
 ### Contributing
 
 Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
