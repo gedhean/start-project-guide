@@ -64,4 +64,4 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 
 See [open source licenses](https://opensource.org/licenses).
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/gedhean/start-project-guide/blob/master/LICENSE) file for details
