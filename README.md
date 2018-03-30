@@ -53,6 +53,9 @@ gitignore type
 npm init
 
 ```
+### Use a Style Guide
+
+See [JSCS](http://jscs.info/).
 
 ## Important files
 
